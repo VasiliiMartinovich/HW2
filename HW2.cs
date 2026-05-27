@@ -2,10 +2,8 @@ namespace HW2;
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
-        Console.WriteLine("Enter your name:");
-        var name = Console.ReadLine();
-        Console.WriteLine(name);
+        Console.WriteLine("Hello, world!");
     }
 }
