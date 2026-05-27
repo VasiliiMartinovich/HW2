@@ -6,7 +6,6 @@ class Program
     {
         Console.WriteLine("Enter your name:");
         var name = Console.ReadLine();
-        Console.Write("Hello, ");
         Console.WriteLine(name);
     }
 }
